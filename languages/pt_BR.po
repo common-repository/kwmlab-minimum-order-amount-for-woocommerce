@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KWM\n"
+"POT-Creation-Date: 2014-02-17 09:34-0300\n"
+"PO-Revision-Date: 2018-02-28 21:06-0300\n"
+"Last-Translator: Kelvin Mariano <kelvin-mariano@outlook.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Minimum Order Amount"
+msgstr "Pedido Mínimo"
+
+msgid "Enable"
+msgstr "Habilitar:"
+
+msgid "Minimum value"
+msgstr "Valor mínimo de compra:"
+
+msgid "Message notice"
+msgstr "Mensagem de aviso:"
+
+msgid "Use \".\" To separate decimal values example \"50.49\""
+msgstr "Usar \".\" Para separar o exemplo de valores decimais \"50.49\""
+
+msgid "Check to enable lock"
+msgstr "Marque para habilitar o bloqueio"
+
+msgid "Use this shortcode to return the minimum purchase value in the message [minimum]."
+msgstr "Use este shortcode para retornar o valor mínimo de compra na mensagem [minimum]."
+
+msgid "Use this shortcode to return the current value of the purchase in the message [total_in_cart]."
+msgstr "Use este shortcode para retornar o valor atual da compra na mensagem [total_in_cart]."
+
+msgid "You must have an order with a minimum of %s to place your order, your current order total is %s."
+msgstr "Você deve ter um pedido com um mínimo de %s para fazer seu pedido, o total da ordem atual é %s."
+
+msgid "Minimum quantity of products in the cart"
+msgstr "Quantidade mínima de produtos no carrinho"
+
+msgid "Use integer values such as '10'"
+msgstr "Use valores inteiros como '10'"
+
+msgid "Minimum standard quantity per product"
+msgstr "Quantidade padrão mínima por produto"
+
+msgid "leave empty to disable"
+msgstr "deixe vazio para desativar"
+
+msgid "Minimum purchase quantity"
+msgstr "Quantidade mínima de compra"
+
+msgid "total of minimum items to buy this product"
+msgstr "total de itens mínimos para comprar este produto"
+
+msgid "<strong>Minimum quantity in cart<\\/strong> - count only different products"
+msgstr "<strong> Quantidade mínima no carrinho <\\/strong> - conte apenas produtos diferentes"
+
+msgid "<strong>Minimum quantity in cart</strong> - count only different products"
+msgstr "<strong> Quantidade mínima no carrinho </strong> - conte apenas produtos diferentes"
+
+msgid "Standard Minimum Quantity per Product"
+msgstr "Quantidade mínima padrão por produto"
+
+msgid "Type of product count in cart"
+msgstr "Tipo de contagem de produtos no carrinho"
+
+msgid "If you want to force a minimum purchase quantity per product just fill in this field with some value, but this field can be changed for each specific product within the inventory settings of each product"
+msgstr "Caso queira forçar uma quantidade minima de compra por produto basta preencher esse campo com algum valor, mas esse campo pode ser alterado para cada produto especifico dentro das configurações do inventário de cada produto"
+
+msgid "different products"
+msgstr "produtos diferentes"
+
+msgid "all product units"
+msgstr "todas as unidades de produto"
+
+msgid "You must add at least [min_qtd_cart] product units to cart to finalize the purchase"
+msgstr "Você deve adicionar pelo menos [min_qtd_cart] unidades de produtos ao carrinho para finalizar a compra"
+
+msgid "You must add at least [min_qtd_cart] different products to the cart to finalize the purchase"
+msgstr "Você deve adicionar pelo menos [min_qtd_cart] produtos diferentes ao carrinho para finalizar a compra"
+
+msgid "The minimum purchase quantity of the product [post_title_product] is [min_qtd_purchase]"
+msgstr "A quantidade mínima de compra do produto [post_title_product] é [min_qtd_purchase]"
+
+msgid "Default message when the minimum quantity per product is not added"
+msgstr "Mensagem padrão quando a quantidade mínima por produto não for adicionada"
+
+msgid "Use this shortcode to return the product name [post_title_product]."
+msgstr "Use este shortcode para retornar o nome do produto [post_title_product]."
+
+msgid "Use this shortcode to return the minimum purchase quantity of the product [min_qtd_purchase]."
+msgstr "Use este shortcode para retornar a quantidade mínima de compra do produto [min_qtd_purchase]."
+
+msgid "Standard message for minimum quantity of products in cart"
+msgstr "Mensagem padrão para quantidade mínima de produtos no carrinho"
+
+msgid "Use this shortcode to return the minimum quantity of products in the cart [min_qtd_cart]."
+msgstr "Use este shortcode para retornar a quantidade mínima de produtos no carrinho [min_qtd_cart]"
+
+msgid "Buy the pro version of the KWMLab Minimum Order Amount for Woocommerce, it contains many more customization options and cost R$ 5,00."
+msgstr "Compre a versão pro do KWMLab Minimum Order Amount for Woocommerce, contém muitas mais opções de personalização e custa R$ 5,00"
+
+msgid "Purchase"
+msgstr "Comprar"
